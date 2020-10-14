@@ -80,7 +80,6 @@ main {
 
     opacity: 0.6;
     transition: opacity .2s;
-    outline: none;
 }
 
 .images button:hover,
@@ -95,7 +94,7 @@ main {
     object-fit: cover;
 }
 
-/* oorphanage-details-content */
+/* orphanage-details-content */
 .orphanage-details-content {
     padding: 8rem;
 }
