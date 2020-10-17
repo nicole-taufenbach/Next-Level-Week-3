@@ -17,6 +17,8 @@
   justify-content: center;
 
   transition: background-color 0.2s;
+
+  text-decoration: none;
 }
 
 .primary-button:hover {
@@ -37,6 +39,7 @@
   background: #f5f8fa;
   border: 1px solid #d3e2e5;
   color: #5c8599;
+
   cursor: pointer;
 }
 
@@ -51,5 +54,5 @@
 }
 
 .button-select button:last-child {
-  border: 0 2rem 2rem 0;
+  border-radius: 0 2rem 2rem 0;
 }
